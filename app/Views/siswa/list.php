@@ -1,4 +1,4 @@
-<div class="container">
+<div>
     <h2>Siswa</h2>
 </div>
 <div class="p-4">
